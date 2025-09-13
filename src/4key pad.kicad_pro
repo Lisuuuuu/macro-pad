@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "6key pad.kicad_pro",
+    "filename": "4key pad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -492,7 +492,7 @@
       "specctra_dsn": "",
       "step": "",
       "svg": "",
-      "vrml": ""
+      "vrml": "4key pad.wrl"
     },
     "page_layout_descr_file": ""
   },
