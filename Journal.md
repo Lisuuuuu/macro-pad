@@ -1,9 +1,9 @@
----
+
 Title: "Macro-pad"
 Author: "@Antek Lisowski"
 Description: "4 key macropad with a rotary encoder and an oled display"
 Created On: "8/9/2025" (DD/MM/YYYY)
----
+
 
 
 # September 8th: Started the work!
